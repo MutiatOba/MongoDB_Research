@@ -48,3 +48,4 @@ The default port number for MongoDB for communication between client application
 Steps for connecting locally:
 - install mongodb
 - start mongodb ```mongodb```
+usefule guide: https://zellwk.com/blog/local-mongodb/
